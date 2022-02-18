@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>membuat file index.php</h1>
-    <p>semoga lancar</p>
+    <p>semoga lancar, amiin</p>
 </body>
 </html>
